@@ -2,6 +2,7 @@
 <br>
 <div style="text-align: center;">
 <span style="font-size: medium;"><b>Vamos conversar um pouco sobre a ideia de leitos inteligentes que começamos a desenvolver no Mega Hack COVID 19 da Shawee:</b></span><br />
+<br /> 
   Esse é o link do nosso Pitch:
 <br />
 https://www.youtube.com/embed/7Kr2vEZ0qzw
