@@ -16,5 +16,5 @@ Ou se preferir pode ligar para:</div>
 </div>
 <div style="text-align: center;">
 <br />
-<span style="font-size: medium;"><b>Ou se preferir pode ligar para (83) 9.8863-8049</b></span><br />
+<span style="font-size: medium;"><b>(83) 9.8863-8049</b></span><br />
 <br />
